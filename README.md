@@ -20,7 +20,7 @@ Gỡ lỗi: trang trắng thì kiểm tra tên file viết thường và nằm �
 Trang công khai chỉ chứa mã nguồn. Nhật ký của bạn nằm trong IndexedDB của trình duyệt. Ứng dụng không có mật khẩu: ai dùng được hồ sơ trình duyệt này đều đọc được. Xóa dữ liệu trang web sẽ mất hết, vì vậy hãy xuất sao lưu thường xuyên, cất bản sao ở nơi khác và thử khôi phục.
 
 ## Danh sách kiểm tra thủ công
-- [ ] Thêm, sửa, xóa mỗi loại: dòng thời gian, kỷ niệm, trò chuyện, về chúng mình, tử vi, ngày quan trọng, album
+- [ ] Thêm, sửa, xóa mỗi loại: kỷ niệm, về chúng mình, ảnh, album
 - [ ] Thêm 2 ảnh, mở xem phóng to, liên kết một ảnh với kỷ niệm, xóa một ảnh
 - [ ] Tải lại trang: dữ liệu vẫn còn
 - [ ] Lọc theo danh mục, người, thẻ; tìm kiếm có chọn khoảng ngày
